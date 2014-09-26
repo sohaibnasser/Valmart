@@ -1,4 +1,4 @@
-Walmart
+Valmart
 =======
 
-Jquery Validation Plugin
+Jquery Validation Plugin.
